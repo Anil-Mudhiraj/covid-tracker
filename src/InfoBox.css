@@ -1,0 +1,7 @@
+.infoBox {
+  flex: auto;
+}
+
+.infoBox:not(:last-child) {
+  margin-right: 15px;
+}
